@@ -1,6 +1,6 @@
 .onboard-spotlight .link-content{font-weight:500 !important}
 /* Only if using bluelynx logo or similar with same width */
-.app-logo {width: 120px !important;}
+.app-logo {width: 24px !important;}
 .navbar-default {
     background-color: #1a3f77;
     border-color: #1a3f77;}
@@ -35,7 +35,9 @@ small, .small {
 	border-radius:0px !important;
 	background-color:#ffffff;}
 .section-box h4 {
-	color:#3864a7}
+   color:#3864a7;
+   font-weight: bold;
+}
 a {
     color: #666;}
 h1, .h1 {
